@@ -28,4 +28,34 @@ In many industrial and academic applications, robots are required to move along 
 5. The robot adjusts its movement to stay on the path.
 
 ## ✨ Features
+- Fully autonomous navigation
+- Accurate line detection
+- Smooth turning mechanism
+- Compact and low-cost design
 
+## 🧪 Results
+- Successfully follows straight and curved paths.
+- Stable performance under normal lighting conditions.
+- Reliable motor response and sensor accuracy.
+
+## 📷 Project Images
+Images of the robot and wiring diagram are available in the **images** folder.
+
+## ▶️ Demo Video
+(Add demo video link here)
+
+## 🚀 How to Run
+1. Connect all hardware components as per the wiring diagram.
+2. Upload the Arduino code from the `code` folder.
+3. Power the robot using a battery.
+4. Place the robot on the track and observe its movement.
+
+## 📚 Future Improvements
+- Implement PID control for better accuracy
+- Add obstacle detection
+- Speed optimization
+- Wireless monitoring
+
+## 👨‍🎓 Author
+**Govinda Bhandari**  
+Final Year ECE Student  
